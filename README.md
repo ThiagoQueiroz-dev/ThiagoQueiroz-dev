@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em Desenvolvimento kkk`**
 
-Me chamo Thiago Henrique, tenho 21 anos e sou natural de Goiás. Concluí o ensino médio no CEPMGMV - Colegio Estadual da Policia Militar de Goiás.
+Me chamo Thiago Henrique, tenho 22 anos e sou natural da cidade de Inhumas, Goiás. Concluí o ensino médio no CEPMGMV - Colegio Estadual da Policia Militar de Goiás.
 Atualmente, estou cursando Ciências da Computação na Unip. Sou fascinado por tecnologia e gosto de usar o que sei para resolver desafios e criar coisas úteis. 
 
 
